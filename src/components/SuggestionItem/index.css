@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin-top: 16px;
+}
+.description {
+  font-size: 20px;
+  margin: 0px;
+  font-family: 'Roboto';
+  color: #475569;
+}
+.arrow-button {
+  color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.arrow {
+  height: 16px;
+  width: 16px;
+}
